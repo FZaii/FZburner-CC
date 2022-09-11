@@ -1,3 +1,27 @@
 # FZburner-CC
 给大鱼CC 3D打印机设计的一款打印头
-Different designs of the burner for the DaYu CC 3D parinter
+> Different designs of the burner for the DaYu CC 3D parinter
+
+### 主要功能
+> - [x] 近程挤出
+> - [x] E3D V6热端
+> - [x] 4010热端风扇
+> - [x] 4020物料风扇
+> - [x] BLTouch安装位
+> - [x] klicky probe安装位
+> - [x] ADXL 345安装位
+
+### 更新历史
+> [Ver 1.3]
+>
+  > 新增 - 4K，1080p60，720p60等解析选项（需要大会员）
+  > 修改 - 调低视频解析api缓存时间 10分钟 - > 1 分钟（国内大会员视频无法解析，请尝试关闭翻墙或者，把bilibili.com加入不翻名单）
+
+> -[v0.5.5]
+ > 修改 - 设置移动至 选项 - 插件设置
+ > 修复 - re 从零开始的异世界生活第二季番剧无法打开问题
+ > 新增 - 大会员解析设置
+ > 新增 - 弹幕ass文件保存位置设置
+ > 修改 - danmuku.py仅删除弹幕文件夹下所有xml和ass文件
+ > 新增 - 视频列表显示视频播放量，up主等信息
+ > 新增 - 知识区，国漫，纪录片等分类
