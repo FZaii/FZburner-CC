@@ -4,7 +4,7 @@
 ![FZburner-CC](Images-效果图/FZburner-CC.png)
 
 ### 主要功能
-> - [x] 近程挤出
+> - [x] 远程挤出 （也有用Sherpa近程挤出的版本）
 > - [x] E3D V6热端
 > - [x] 4010热端风扇
 > - [x] 4020物料风扇
