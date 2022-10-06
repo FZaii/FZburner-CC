@@ -1,7 +1,7 @@
 <h1 align="center">FZburner-CC</h1>
 
 **<p align="center">给大鱼CC 3D打印机设计的一款打印头**
-<p align="center">[Different designs of the burner for the DaYu CC 3D parinter]
+<p align="center">[A burner for the DaYu CC 3D parinter]
 
  ---
  
