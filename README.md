@@ -1,9 +1,8 @@
 <h1 align="center">FZburner-CC</h1>
 
-**<p align="center">给大鱼CC 3D打印机设计的一款打印头**
-<p align="center">[A burner for the DaYu CC 3D parinter]
+**<p align="center">给大鱼CC 3D打印机设计的一款打印头</p>**
+<p align="center">[A burner for the DaYu CC 3D parinter]</p>
 
-[![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)
  ---
  
 ![FZburner-CC](Images-效果图/FZburner-CC.png)
@@ -20,7 +19,8 @@
 > - [x] ADXL 345安装位
  
 ### 更新历史
-> **[Ver 1.5]** 2022.11.19  **可能 也许 大概 真的是最后一版了（没bug反馈的话）**
+> [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)*可能 也许 大概 真的是最后一版了（没bug反馈的话）*
+> **[Ver 1.5]** 2022.11.19  
 > - 优化“1_底板”，以增加强度，更稳固的固定热端，简化限位开关走线；
 > - 优化“2[1]_热端固定件” ，以更稳固的固定热端；
 > - 优化“3_风道主体” ，以加大多个配合面的间隙，修改出风口角度，配合修改后的热端固定件及限位开关走线；
