@@ -20,6 +20,7 @@
  
 ### 更新历史
 > [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)*可能 也许 大概 真的是最后一版了（没bug反馈的话）*
+> 
 > **[Ver 1.5]** 2022.11.19  
 > - 优化“1_底板”，以增加强度，更稳固的固定热端，简化限位开关走线；
 > - 优化“2[1]_热端固定件” ，以更稳固的固定热端；
