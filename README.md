@@ -18,7 +18,7 @@
 > - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe)安装位
 > - [x] ADXL 345安装位
  
-**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<  可能 也许 大概 真的是最后一版了** *（没收到什么bug反馈的话）*
+**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<      可能 也许 大概 真的是最后一版了** *（没收到什么bug反馈的话）*
 
 ### 更新历史
 
