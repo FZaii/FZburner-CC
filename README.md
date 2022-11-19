@@ -10,12 +10,12 @@
  ---
   
 ## 主要功能
-> - [x] 远程挤出 （也有用Sherpa近程挤出的版本）
+> - [x] 远程挤出（近程挤出可选用[**Sherpa Mini挤出机**](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)或者[**FZ挤出机**](https://github.com/FZaii/FZ-Extruder)等固定孔位间距为43.5mm的挤出机）
 > - [x] E3D V6热端
 > - [x] 4010热端风扇
 > - [x] 4020物料风扇
 > - [x] BLTouch安装位
-> - [x] klicky probe安装位
+> - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe)安装位
 > - [x] ADXL 345安装位
 
 ### 更新历史
