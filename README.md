@@ -42,8 +42,13 @@
 > - 新增“klickyNG支架”等，以安装Klicky NG项目。
  
 > **[Ver 1.4]** 2022.10.05
+> 
 > **[Ver 1.3]** 2022.09.11
+> 
 > **[Ver 1.2]** 2022.06.15
+> 
 > **[Ver 1.0]** 2022.04.30
 
-![CC_FZai](Images-效果图/Dayu CC_FZai.jpg)
+ ---
+ 
+![CC_FZai](Images-效果图/Dayu-CC_FZai.jpg)
