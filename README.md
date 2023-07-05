@@ -4,6 +4,10 @@
 <p align="center">[A burner for the DaYu CC 3D parinter]</p>
 
  ---
+**<p align="center">最终版（v1.6）STEP文件已上传，说明文档及STL打印文件制作上传中,不再更新</p>**
+**<p align="center">全新FZburner MK2完成进度80%……</p>**
+
+ ---
  
 ![FZburner-CC](Images-效果图/FZburner-CC.png)
  
@@ -11,12 +15,12 @@
   
 ## 主要功能
 > - [x] 远程挤出（近程挤出可选用[**Sherpa Mini挤出机**](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)或者[**FZ挤出机**](https://github.com/FZaii/FZ-Extruder)等固定孔位间距为43.5mm的挤出机）
-> - [x] E3D V6热端
-> - [x] 4010热端风扇
-> - [x] 4020物料风扇
-> - [x] BLTouch安装位
-> - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe)安装位
-> - [x] ADXL 345安装位
+> - [x] E3D V6 热端
+> - [x] 4010 热端风扇
+> - [x] 4020 / 5015 物料风扇
+> - [x] BLTouch 安装位
+> - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe) / [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)安装位
+> - [x] ADXL345 安装位
  
 **>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<      可能 也许 大概 真的是最后一版了** *（没收到什么bug反馈的话）*
 
