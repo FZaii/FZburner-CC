@@ -4,8 +4,8 @@
 <p align="center">[A burner for the DaYu CC 3D parinter]</p>
 
  ---
- **<p align="center">最终版（v1.6）STEP文件已上传,不再更新，说明文档及STL打印文件整理上传中</p>**
-## <p align="center">全新FZburner MK2完成进度80%……</p>
+## **<p align="center">最终版（v1.6）STEP文件已上传,不再更新，说明文档及STL打印文件整理上传中</p>**
+# <p align="center">全新FZburner MK2完成进度80%……</p>
 
  ---
  
