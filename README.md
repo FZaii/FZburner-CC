@@ -4,7 +4,7 @@
 <p align="center">[A burner for the DaYu CC 3D parinter]</p>
 
  ---
-## **<p align="center">最终版（v1.6）STEP文件已上传,不再更新，说明文档及STL打印文件整理上传中</p>**
+## **<p align="center">最终版（v1.6）STEP文件已上传,不再更新！说明文档及STL打印文件整理上传中……</p>**
 # <p align="center">全新FZburner MK2完成进度80%……</p>
 
  ---
@@ -22,7 +22,7 @@
 > - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe) / [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)安装位
 > - [x] ADXL345 安装位
  
-**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<      可能 也许 大概 真的是最后一版了** *（没收到什么bug反馈的话）*
+**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<**    ***STL打印文件压缩包（最终版）***
 
 ### 更新历史
 
@@ -31,7 +31,6 @@
 > - 新增“Euclid Probe支架”等，以选装Euclid Probe项目;
 > - 优化“4020风扇罩”、“5015风扇罩”，以安装36 PCB集线板（不支持36CAN板）
 > - 其他多处修改记不住了
-
 
 > **[Ver 1.5]** 2022.11.19  
 > - 优化“底板”，以增加强度，更稳固的固定热端，简化限位开关走线；
@@ -43,9 +42,13 @@
 > - 新增“klickyNG支架”等，以安装Klicky NG项目。
  
 > **[Ver 1.4]** 2022.10.05
- 
+> 
 > **[Ver 1.3]** 2022.09.11
-
+> 
 > **[Ver 1.2]** 2022.06.15
+> 
+> **[Ver 1.0]** 2022.04.30
 
-> **[Ver 1.0]** 2022.04.30 
+ ---
+ 
+![CC_FZai](Images-效果图/Dayu-CC_FZai.jpg)
