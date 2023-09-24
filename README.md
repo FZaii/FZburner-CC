@@ -25,7 +25,7 @@
 **>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<**    ***STL打印文件压缩包（非最新，未更新）***
 ### 更新历史
 
-> **[Ver 1.61]** 2023.07.02
+> **[Ver 1.61]** 2023.09.24
 > - 优化“底板”，增加强度；
 > - 新增“5015风扇罩”等，以选装5015风扇;
 > - 新增“Euclid Probe支架”等，以选装Euclid Probe项目（PCB的klicky）;
