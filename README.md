@@ -4,7 +4,7 @@
 <p align="center">[A burner for the DaYu CC 3D parinter]</p>
 
  ---
-## **<p align="center">最终版（v1.6）STEP文件已上传,不再更新！说明文档及打印文件整理上传中……</p>**
+## **<p align="center">最终版（v1.61）STEP及STL文件已上传,不再更新！说明文档整理中（懒得写）……</p>**
 # <p align="center">全新FZburner MK2完成进度80%……</p>
 
  ---
@@ -25,9 +25,10 @@
 **>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<**    ***STL打印文件压缩包（非最新，未更新）***
 ### 更新历史
 
-> **[Ver 1.6]** 2023.07.02
+> **[Ver 1.61]** 2023.07.02
+> - 优化“底板”，增加强度；
 > - 新增“5015风扇罩”等，以选装5015风扇;
-> - 新增“Euclid Probe支架”等，以选装Euclid Probe项目;
+> - 新增“Euclid Probe支架”等，以选装Euclid Probe项目（PCB的klicky）;
 > - 优化“4020风扇罩”、“5015风扇罩”，以安装36 PCB集线板（不支持36CAN板）
 > - 其他多处修改记不住了
 
