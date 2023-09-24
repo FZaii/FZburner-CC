@@ -22,7 +22,7 @@
 > - [x] [**Klicky/KlickyNG Probe**](https://github.com/jlas1/Klicky-Probe) / [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)安装位
 > - [x] ADXL345 安装位
  
-**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<**    ***STL打印文件压缩包（非最新，未更新）***
+**>** [![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**<**    ***STL打印文件压缩包***
 ### 更新历史
 
 > **[Ver 1.61]** 2023.09.24
