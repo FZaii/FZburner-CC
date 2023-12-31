@@ -12,7 +12,8 @@
   [A burner for the DaYu CC 3D parinter]</p>*
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner-CC)](https://github.com/FZaii/FZburner-CC/releases)**
-**<h3 align="center">最终版（v1.61）STEP及STL文件已上传！未来2.0再见！</h3>**
+**<h3 align="center">最终版（v1.61）STEP及STL文件已上传！</h3>**
+**<h3 align="center">✨[FZburner Mk2 已发布！！](https://github.com/FZaii/FZburner)✨</h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
